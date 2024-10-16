@@ -1,26 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Shubhankar Goswami's Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <img src="your-photo.jpg" alt="Shubhankar Goswami's Photo" class="profile-photo">
-            <h1>Shubhankar Goswami</h1>
-            <h2>Gauhati Commerce College<br>MBA Department (Marketing and Finance)</h2>
-        </div>
-    </header>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
 
-    <section class="contact-info">
-        <h3>Contact Information</h3>
-        <p><strong>Phone:</strong> 8638475905</p>
-        <p><strong>Email:</strong> <a href="mailto:shubhankargoswami1998@gmail.com">shubhankargoswami1998@gmail.com</a></p>
-    </section>
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.contact-info {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 
     <footer>
         <p>© 2024 Shubhankar Goswami | All rights reserved</p>
