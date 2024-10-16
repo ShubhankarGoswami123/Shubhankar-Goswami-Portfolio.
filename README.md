@@ -25,6 +25,9 @@
         <p id="extra-info" style="display: none;">Feel free to reach out for opportunities or collaborations!</p>
     </section>
 
+</head>
+<body>
+
     <footer>
         <p>© 2024 Shubhankar Goswami | All rights reserved</p>
     </footer>
