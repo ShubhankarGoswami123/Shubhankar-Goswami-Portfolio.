@@ -3,32 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio - Shubhankar Goswami</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: 50px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            font-size: 2.5em;
-            color: #4CAF50;
-        }
-        .info {
-            margin: 20px 0;
-            font-size: 1.2em;
-        }
+   
         .info strong {
             color: #555;
         }
@@ -59,7 +34,7 @@
 <body>
     <div class="container">
         <h1>Shubhankar Goswami</h1>
-        <img src="https://your-image-url.com/shubhankar.jpg" alt="Shubhankar Goswami">
+       ![Shubhankar jpg](https://github.com/user-attachments/assets/612721da-b474-4dca-bf93-52ea33db8fc7)
         <div class="info">
             <p><strong>College:</strong> Gauhati Commerce College</p>
             <p><strong>Department:</strong> MBA</p>
