@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
         ![Shubhankar jpg](https://github.com/user-attachments/assets/239c4f39-b885-4c96-abf5-e2b097141935)
