@@ -3,33 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-        .info strong {
-            color: #555;
-        }
-        .download {
-            display: block;
-            margin: 30px 0;
-            text-align: center;
-        }
-        .download a {
-            background-color: #4CAF50;
-            color: #fff;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-        }
-        .download a:hover {
-            background-color: #45a049;
-        }
-        img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            display: block;
-            margin: 0 auto 20px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
