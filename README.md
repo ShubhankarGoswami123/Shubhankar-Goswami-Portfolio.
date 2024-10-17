@@ -7,7 +7,7 @@
 <body>
     <div class="container">
         <h1>Shubhankar Goswami</h1>
-       ![Shubhankar jpg](https://github.com/user-attachments/assets/612721da-b474-4dca-bf93-52ea33db8fc7)
+     ![Shubhankar jpg](https://github.com/user-attachments/assets/239c4f39-b885-4c96-abf5-e2b097141935)
         <div class="info">
             <p><strong>College:</strong> Gauhati Commerce College</p>
             <p><strong>Department:</strong> MBA</p>
