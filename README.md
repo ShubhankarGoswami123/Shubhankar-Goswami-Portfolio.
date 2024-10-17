@@ -1,4 +1,6 @@
 ![Shubhankar jpg](https://github.com/user-attachments/assets/ebb3fe4e-cb8a-494e-82e6-5415fac622b5)
+<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
